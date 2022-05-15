@@ -1,0 +1,17 @@
+group,item,sentence,png
+A,1,"This is a chef. ___ cooks",chef_m.jpg
+A,2,"This is a chef. ___ cooks",chef_f.jpg
+A,3,"This is a bear. ___ likes honey.",bear.jpg
+A,4,"This is a fox. ___ is pretty.",fox.jpg
+B,1,"This is a doctor. ___ heals people.",doctor_m.jpg
+B,2,"This is a doctor. ___ heals people.",doctor_f.jpg
+B,3,"This is a bull. ___ is angry.",bull.jpg
+B,4,"This is a cow. ___ gives milk.",cow.jpg
+C,1,"This is a teacher. ___ gives homework.",teacher_m.jpg
+C,2,"This is a teacher. ___ gives homework.",teacher_f.jpg
+C,3,"This is an ant. ___ likes to build. ",ant.jpg
+C,4,"This is a bee. ___ makes honey.",bee.jpg
+D,1,"This is a baker. ___ makes bread.",baker_m.jpg
+D,2,"This is a baker. ___ makes bread",baker_f.jpg
+D,3,"This is a pigeon. ___ lives in a city.",pigeon.jpg
+D,4,"This is an owl. ___ is really smart.",owl.jpg

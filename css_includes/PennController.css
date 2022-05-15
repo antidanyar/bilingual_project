@@ -1,0 +1,12 @@
+.PennController {
+    width: 40em !important;
+    margin-left: calc(50vw - 20em);
+    font-size: 1.5em;
+}
+
+.Scale label {
+    padding: 1em;
+    color: blue;
+    margin: 1em;
+    border: solid 1px gray;
+}
