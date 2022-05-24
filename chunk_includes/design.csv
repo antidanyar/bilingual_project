@@ -1,81 +1,81 @@
-group,item,sentence,png
-A,1,This is a chef. ___ cooks.,chef_m.png
-B,2,This is a chef. ___ cooks.,chef_f.png
-C,3,This is a bear. ___ likes honey.,bear.png
-D,4,This is a fox. ___ is pretty.,fox.png
-B,1,This is a doctor. ___ heals people.,doctor_m.png
-C,2,This is a doctor. ___ heals people.,doctor_f.png
-D,3,This is a bull. ___ is angry.,bull.png
-A,4,This is a cow. ___ gives milk.,cow.png
-C,1,This is a teacher. ___ gives homework.,teacher_m.png
-D,2,This is a teacher. ___ gives homework.,teacher_f.png
-A,3,This is an ant. ___ likes to build.,ant.png
-B,4,This is a bee. ___ makes honey.,bee.png
-D,1,This is a baker. ___ makes bread.,baker_m.png
-A,2,This is a baker. ___ makes bread,baker_f.png
-B,3,This is a pigeon. ___ lives in a city.,pigeon.png
-C,4,This is an owl. ___ is really smart.,owl.png
-A,1,This is a janitor. ___ cleans.,janitor_m.png
-B,2,This is a janitor. ___ cleans.,janitor_f.png
-C,3,This is a lion. ___ roars.,lion.png
-D,4,This is a lioness. ___ roars.,lioness.png
-B,1,This is a designer. ___ creates user experience.,designer_m.png
-C,2,This is a designer. ___ creates user experience.,designer_f.png
-D,3,This is a spider. ___ makes webs.,spider.png
-A,4,This is a ladybug. ___ flies.,ladybug.png
-C,1,This is a football player. ___ kicks the ball.,footbal_m.png
-D,2,This is a football player. ___ kicks the ball.,footbal_f.png
-A,3,This is a hamster. ___ runs the spinning wheel.,hamster.png
-B,4,This is a squirrel. ___ likes nuts.,squirrel.png
-D,1,This is a hockey player. ___ plays on ice.,hocke_m.png
-A,2,This is a hockey player. ___ plays on ice.,hocke_f.png
-B,3,This is a moth. ___ flies towards light.,moth.png
-C,4,This is a butterfly. ___ has pretty wings.,butterfly.png
-A,1,This is a taxi driver. ___ helps people get wherever.,tax_m.png
-B,2,This is a taxi driver. ___ helps people get wherever.,tax_f.png
-C,3,This is a rabbit. ___ likes carrots.,rabbit.png
-D,4,This is a capybara. ___ is cute.,capybara.png
-B,1,This is a pilot. ___ controls an airplane.,pilot_m.png
-C,2,This is a pilot. ___ controls an airplane.,pilot_f.png
-D,3,This is a beaver. ___ builds in water.,beaver.png
-A,4,This is an otter. ___ likes water.,otter.png
-C,1,This is an athlete. ___ runs really fast.,athlete_m.png
-D,2,This is an athlete. ___ runs really fast.,athlete_f.png
-A,3,This is a whale. ___ is huge.,whale.png
-B,4,This is a shark. ___ is scary.,shark.png
-D,1,This is a film director. ___ oversees the stage. ,fil_m.png
-A,2,This is a film director. ___ oversees the stage.,fil_f.png
-B,3,This is a frog. ___ likes to jump. ,frog.png
-C,4,This is a tadpole. ___ scrapes algae from plants. ,tadpole.png
-A,1,This is a musician. ___ is full of creativity. ,musician_m.png
-B,2,This is a musician. ___ is full of creativity. ,musician_f.png
-C,3,This is a tiger. ___ is the biggest cat.,tiger.png
-D,4,This is a panther. ___ climbs trees.,panther.png
-B,1,This is a coder. ___ creates software.,coder_m.png
-C,2,This is a coder. ___ creates software.,coder_f.png
-D,3,This is a snake. ___ scares people. ,snake.png
-A,4,This is a mongoose. ___ lives in borrows. ,mongoose.png
-C,1,This is a psychologist. ___ helps people. ,psychologist_m.png
-D,2,This is a psychologist. ___ helps people.,psychologist_f.png
-A,3,This is a donkey. ___ carries a lot of things. ,donkey.png
-B,4,This is a horse. ___ likes apples.,horse.png
-D,1,This is a researcher. ___ explores problems. ,researcher_m.png
-A,2,This is a researcher. ___ solves problems.,researcher_f.png
-B,3,This is a chameleon. ___ changes color.,chameleon.png
-C,4,This is a lizard. ___ gets rid of a tail.,lizard.png
-A,1,This is a photographer. ___ takes gorgeous pictures. ,photographer_m.png
-B,2,This is a photographer. ___ takes gorgeous pictures. ,photographer_f.png
-C,3,This is a jackal. ___ lives in Asia.,jackal.png
-D,4,This is a hyena. ___ lives in Africa.,hyena.png
-B,1,This is a bartender. ___ makes cool drinks. ,bartender_m.png
-C,2,This is a bartender. ___ makes cool drinks.,bartender_f.png
-D,3,This is a duck. ___ has ducklings.,duck.png
-A,4,This is a drake. ___ is camouflaged.,drake.png
-C,1,This is a politician. ___ proposes new laws.,politician_m.png
-D,2,This is a politician. ___ proposes new laws.,politician_f.png
-A,3,This is a heron. ___ lives in swamps.,heron.png
-B,4,This is a pelican. ___ catches fish.,pelican.png
-D,1,This is a historian. ___ interprets historical events. ,historian_m.png
-A,2,This is a historian. ___ interprets historical events. ,historian_f.png
-B,3,This is a chicken. ___ eats corn. ,chicken.png
-C,4,This is a cock. ___ is arrogant,cock.png
+group,item,sentence,png,type
+A,1,This is a chef. ___ cooks.,chef_m.png,human_m
+B,2,This is a chef. ___ cooks.,chef_f.png,human_f
+C,3,This is a bear. ___ likes honey.,bear.png,animal_m
+D,4,This is a fox. ___ is pretty.,fox.png,animal_f
+B,1,This is a doctor. ___ heals people.,doctor_m.png,human_m
+C,2,This is a doctor. ___ heals people.,doctor_f.png,human_f
+D,3,This is a bull. ___ is angry.,bull.png,animal_m
+A,4,This is a cow. ___ gives milk.,cow.png,animal_f
+C,1,This is a teacher. ___ gives homework.,teacher_m.png,human_m
+D,2,This is a teacher. ___ gives homework.,teacher_f.png,human_f
+A,3,This is an ant. ___ likes to build.,ant.png,animal_m
+B,4,This is a bee. ___ makes honey.,bee.png,animal_f
+D,1,This is a baker. ___ makes bread.,baker_m.png,human_m
+A,2,This is a baker. ___ makes bread,baker_f.png,human_f
+B,3,This is a pigeon. ___ lives in a city.,pigeon.png,animal_m
+C,4,This is an owl. ___ is really smart.,owl.png,animal_f
+A,1,This is a janitor. ___ cleans.,janitor_m.png,human_m
+B,2,This is a janitor. ___ cleans.,janitor_f.png,human_f
+C,3,This is a lion. ___ roars.,lion.png,animal_m
+D,4,This is a lioness. ___ roars.,lioness.png,animal_f
+B,1,This is a designer. ___ creates user experience.,designer_m.png,human_m
+C,2,This is a designer. ___ creates user experience.,designer_f.png,human_f
+D,3,This is a spider. ___ makes webs.,spider.png,animal_m
+A,4,This is a ladybug. ___ flies.,ladybug.png,animal_f
+C,1,This is a football player. ___ kicks the ball.,footbal_m.png,human_m
+D,2,This is a football player. ___ kicks the ball.,footbal_f.png,human_f
+A,3,This is a hamster. ___ runs the spinning wheel.,hamster.png,animal_m
+B,4,This is a squirrel. ___ likes nuts.,squirrel.png,animal_f
+D,1,This is a hockey player. ___ plays on ice.,hocke_m.png,human_m
+A,2,This is a hockey player. ___ plays on ice.,hocke_f.png,human_f
+B,3,This is a moth. ___ flies towards light.,moth.png,animal_m
+C,4,This is a butterfly. ___ has pretty wings.,butterfly.png,animal_f
+A,1,This is a taxi driver. ___ helps people get wherever.,tax_m.png,human_m
+B,2,This is a taxi driver. ___ helps people get wherever.,tax_f.png,human_f
+C,3,This is a rabbit. ___ likes carrots.,rabbit.png,animal_m
+D,4,This is a capybara. ___ is cute.,capybara.png,animal_f
+B,1,This is a pilot. ___ controls an airplane.,pilot_m.png,human_m
+C,2,This is a pilot. ___ controls an airplane.,pilot_f.png,human_f
+D,3,This is a beaver. ___ builds in water.,beaver.png,animal_m
+A,4,This is an otter. ___ likes water.,otter.png,animal_f
+C,1,This is an athlete. ___ runs really fast.,athlete_m.png,human_m
+D,2,This is an athlete. ___ runs really fast.,athlete_f.png,human_f
+A,3,This is a whale. ___ is huge.,whale.png,animal_m
+B,4,This is a shark. ___ is scary.,shark.png,animal_f
+D,1,This is a film director. ___ oversees the stage. ,fil_m.png,human_m
+A,2,This is a film director. ___ oversees the stage.,fil_f.png,human_f
+B,3,This is a frog. ___ likes to jump. ,frog.png,animal_m
+C,4,This is a tadpole. ___ scrapes algae from plants. ,tadpole.png,animal_f
+A,1,This is a musician. ___ is full of creativity. ,musician_m.png,human_m
+B,2,This is a musician. ___ is full of creativity. ,musician_f.png,human_f
+C,3,This is a tiger. ___ is the biggest cat.,tiger.png,animal_m
+D,4,This is a panther. ___ climbs trees.,panther.png,animal_f
+B,1,This is a coder. ___ creates software.,coder_m.png,human_m
+C,2,This is a coder. ___ creates software.,coder_f.png,human_f
+D,3,This is a snake. ___ scares people. ,snake.png,animal_m
+A,4,This is a mongoose. ___ lives in borrows. ,mongoose.png,animal_f
+C,1,This is a psychologist. ___ helps people. ,psychologist_m.png,human_m
+D,2,This is a psychologist. ___ helps people.,psychologist_f.png,human_f
+A,3,This is a donkey. ___ carries a lot of things. ,donkey.png,animal_m
+B,4,This is a horse. ___ likes apples.,horse.png,animal_f
+D,1,This is a researcher. ___ explores problems. ,researcher_m.png,human_m
+A,2,This is a researcher. ___ solves problems.,researcher_f.png,human_f
+B,3,This is a chameleon. ___ changes color.,chameleon.png,animal_m
+C,4,This is a lizard. ___ gets rid of a tail.,lizard.png,animal_f
+A,1,This is a photographer. ___ takes gorgeous pictures. ,photographer_m.png,human_m
+B,2,This is a photographer. ___ takes gorgeous pictures. ,photographer_f.png,human_f
+C,3,This is a jackal. ___ lives in Asia.,jackal.png,animal_m
+D,4,This is a hyena. ___ lives in Africa.,hyena.png,animal_f
+B,1,This is a bartender. ___ makes cool drinks. ,bartender_m.png,human_m
+C,2,This is a bartender. ___ makes cool drinks.,bartender_f.png,human_f
+D,3,This is a duck. ___ has ducklings.,duck.png,animal_m
+A,4,This is a drake. ___ is camouflaged.,drake.png,animal_f
+C,1,This is a politician. ___ proposes new laws.,politician_m.png,human_m
+D,2,This is a politician. ___ proposes new laws.,politician_f.png,human_f
+A,3,This is a heron. ___ lives in swamps.,heron.png,animal_m
+B,4,This is a pelican. ___ catches fish.,pelican.png,animal_f
+D,1,This is a historian. ___ interprets historical events. ,historian_m.png,human_m
+A,2,This is a historian. ___ interprets historical events. ,historian_f.png,human_f
+B,3,This is a chicken. ___ eats corn. ,chicken.png,animal_m
+C,4,This is a cock. ___ is arrogant,cock.pn,animal_f
